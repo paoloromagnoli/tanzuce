@@ -7,6 +7,6 @@ If you are familiar with Salt instructions are pretty simple:  you just need to 
 Currently this installs TCE 0.10.0
 
 ## If you are not familiar with Salt
-Don't worry, I wrote a blog post with [step-by-step end-to-end guide including installing Salt](https://nine30.info). 
+Don't worry, I wrote a blog post with [step-by-step end-to-end guide including installing Salt](https://nine30.info/install-tanzu-community-edition-with-salt). 
 
 Have fun with Tanzu Community Edition and your K8s clusters!
